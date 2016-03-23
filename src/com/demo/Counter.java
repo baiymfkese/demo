@@ -1,7 +1,11 @@
 package com.demo;
 
 import java.util.concurrent.atomic.AtomicInteger;
-
+/**
+ * 
+ * @author ming
+ *
+ */
 public class Counter {
 
 	private AtomicInteger count=new AtomicInteger(5);
